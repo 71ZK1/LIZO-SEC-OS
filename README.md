@@ -46,7 +46,7 @@ Build inside a Debian VM (e.g. VirtualBox), not on your main OS.
 ```bash
 sudo apt update
 sudo apt install live-build git
-git clone https://github.com/<your-username>/LIZO.git
+git clone https://github.com/71ZK1/LIZO.git
 cd LIZO/build
 lb config
 sudo lb build
